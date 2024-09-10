@@ -8,7 +8,7 @@ function toggleName() {
 }
 
 const colors = ['red', 'red', 'green', 'yellow', 'orange'];
-colors.forEach(function(number)
+colors.forEach(function(number);
 document.getElementById("nameContainer").innerHTML = Math.random();
 
 
